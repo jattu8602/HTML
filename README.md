@@ -73,7 +73,7 @@ Certainly! HTML (HyperText Markup Language) is the standard language used to cre
 # Intermediate HTML:
 ## 4. Lists: 
 
- HTML supports ordered and unordered lists using <ul> and <ol> tags, and <li> tags for list items.
+ HTML supports ordered and unordered lists using "ul" and "ol" tags, and "li" tags for list items.
 
 
 
