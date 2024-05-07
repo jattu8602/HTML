@@ -92,7 +92,7 @@ Certainly! HTML (HyperText Markup Language) is the standard language used to cre
 ```
 ## 5. Tables:
 
-Tables are created using <table>, <tr> for rows, <th> for table headers, and <td> for table data.
+Tables are created using "<table>", "<tr>" for rows, "<th>" for table headers, and "<td>" for table data.
 
 ```bash
 <table>
@@ -110,7 +110,7 @@ Tables are created using <table>, <tr> for rows, <th> for table headers, and <td
 ```
 ## 6. Forms:
 
-Forms are created using <form> tag and include input fields like text, password, radio buttons, checkboxes, etc.
+Forms are created using "<form>" tag and include input fields like text, password, radio buttons, checkboxes, etc.
 
 
 ```bash
@@ -125,7 +125,7 @@ Forms are created using <form> tag and include input fields like text, password,
 # Advanced HTML:
 ## 7. Semantic HTML:
 
-Use semantic HTML tags like <header>, <footer>, <nav>, <article>, <section>, etc., to provide meaning to the content and improve accessibility and SEO.
+Use semantic HTML tags like "<header>"," <footer>"," <nav>"," <article>", "<section>", etc., to provide meaning to the content and improve accessibility and SEO.
 
 
 ```bash
