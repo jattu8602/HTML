@@ -26,7 +26,7 @@ Certainly! HTML (HyperText Markup Language) is the standard language used to cre
 
 ## 1. Understanding HTML Structure:
 
- HTML documents are made up of elements that define the structure of a webpage. The basic structure of an HTML document includes <!DOCTYPE html>, <html>, <head>, and <body> tags.
+ HTML documents are made up of elements that define the structure of a webpage. The basic structure of an HTML document includes "!DOCTYPE html", "html", "head", and "body" tags.
 
 
 
@@ -45,7 +45,7 @@ Certainly! HTML (HyperText Markup Language) is the standard language used to cre
 
 ## 2. HTML Elements:
 
- HTML elements are the building blocks of HTML pages. They are defined by tags such as <p> for paragraphs, "h1" for headings, <a> for links, <img> for images, etc.
+ HTML elements are the building blocks of HTML pages. They are defined by tags such as "p" for paragraphs, "h1" for headings, "a" for links, "img" for images, etc.
 
 
 
@@ -92,7 +92,7 @@ Certainly! HTML (HyperText Markup Language) is the standard language used to cre
 ```
 ## 5. Tables:
 
-Tables are created using "<table>", "<tr>" for rows, "<th>" for table headers, and "<td>" for table data.
+Tables are created using "table", "tr" for rows, "th" for table headers, and "td" for table data.
 
 ```bash
 <table>
@@ -110,7 +110,7 @@ Tables are created using "<table>", "<tr>" for rows, "<th>" for table headers, a
 ```
 ## 6. Forms:
 
-Forms are created using "<form>" tag and include input fields like text, password, radio buttons, checkboxes, etc.
+Forms are created using "form" tag and include input fields like text, password, radio buttons, checkboxes, etc.
 
 
 ```bash
@@ -125,7 +125,7 @@ Forms are created using "<form>" tag and include input fields like text, passwor
 # Advanced HTML:
 ## 7. Semantic HTML:
 
-Use semantic HTML tags like "<header>"," <footer>"," <nav>"," <article>", "<section>", etc., to provide meaning to the content and improve accessibility and SEO.
+Use semantic HTML tags like "header"," footer"," nav"," article", "section", etc., to provide meaning to the content and improve accessibility and SEO.
 
 
 ```bash
@@ -151,7 +151,7 @@ Use semantic HTML tags like "<header>"," <footer>"," <nav>"," <article>", "<sect
 ```
 ## 8. Multimedia:
 
-Embed multimedia content such as audio and video using <audio> and <video> tags.
+Embed multimedia content such as audio and video using "audio" and "video" tags.
 
 
 ```bash
@@ -168,7 +168,7 @@ Embed multimedia content such as audio and video using <audio> and <video> tags.
 ```
 ## 9. Canvas and SVG:
 
-Use <canvas> for dynamic, scriptable rendering of 2D shapes, and <svg> for scalable vector graphics.
+Use "canvas" for dynamic, scriptable rendering of 2D shapes, and "svg" for scalable vector graphics.
 
 
 ```bash
