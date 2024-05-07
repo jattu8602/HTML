@@ -45,7 +45,7 @@ Certainly! HTML (HyperText Markup Language) is the standard language used to cre
 
 ## 2. HTML Elements:
 
- HTML elements are the building blocks of HTML pages. They are defined by tags such as <p> for paragraphs, <h1> for headings, <a> for links, <img> for images, etc.
+ HTML elements are the building blocks of HTML pages. They are defined by tags such as <p> for paragraphs, "h1" for headings, <a> for links, <img> for images, etc.
 
 
 
