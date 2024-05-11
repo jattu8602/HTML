@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 80px 0;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+main {
+    padding: 40px;
+}
+
+.section {
+    margin-bottom: 60px;
+}
+
+.content {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Section-specific styles */
+#intro {
+    background-image: url('background_intro.jpg');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 120px 0;
+}
+
+#websites {
+    background-image: url('background_websites.jpg');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 120px 0;
+}
+
+#forms {
+    background-image: url('background_forms.jpg');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 120px 0;
+}
+
+#emails {
+    background-image: url('background_emails.jpg');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 120px 0;
+}
+
+#blogs {
+    background-image: url('background_blogs.jpg');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 120px 0;
+}
